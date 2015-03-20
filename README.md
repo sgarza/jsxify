@@ -1,8 +1,8 @@
 # Setup
 
-    npm install jsxify -save
+    npm install jsxtransformify -save
 
 # Usage
 
-    browserify -t jsxify widget.js -o output.js
+    browserify -t jsxtransformify widget.js -o output.js
 

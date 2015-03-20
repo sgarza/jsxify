@@ -1,5 +1,5 @@
 {
-  "name": "jsxify",
+  "name": "jsxtransformify",
   "version": "1.0.0",
   "description": "Browserify JSX transform",
   "main": "index.js",
