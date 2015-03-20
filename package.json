@@ -1,0 +1,30 @@
+{
+  "name": "jsxify",
+  "version": "1.0.0",
+  "description": "Browserify JSX transform",
+  "main": "index.js",
+  "dependencies": {
+    "jsx-transform": "^0.10.1",
+    "through": "^2.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "browserify",
+    "jsx",
+    "transform",
+    "jsx-transform"
+  ],
+  "author": "Sergio de la Garza",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sgarza/jsxify"
+  },
+  "bugs": {
+    "url": "https://github.com/sgarza/jsxify/issues"
+  },
+  "homepage": "https://github.com/sgarza/jsxify"
+}
